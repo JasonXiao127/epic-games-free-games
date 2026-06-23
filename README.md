@@ -1,4 +1,4 @@
-# 🎮 Epic Games Freebie Tracker
+#  Epic Games Freebie Tracker
 
 **Live Site:** [jasonxiao127.github.io/epic-games-free-games](https://jasonxiao127.github.io/epic-games-free-games/)
 
