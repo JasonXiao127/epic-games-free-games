@@ -2,6 +2,9 @@
 
 **Live Site:** [jasonxiao127.github.io/epic-games-free-games](https://jasonxiao127.github.io/epic-games-free-games/)
 
+Update:
+  Epic games has finally woken up and now has a 12 month roadmap to fix their craptastic launcher. Hurray!? 
+
 A lightweight, bloat-free static website that automatically tracks and displays the current 100% off weekly free games from the Epic Games Store. 
 
 ##  Why build this?
