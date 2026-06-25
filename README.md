@@ -1,4 +1,4 @@
-#  Loop Drop - The Epic Games Free Game Tracker 
+#  Loot Drop - The Epic Games Free Game Tracker 
 
 **Live Site:** [jasonxiao127.github.io/loot-drop/](https://jasonxiao127.github.io/loot-drop/)
 
