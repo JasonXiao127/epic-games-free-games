@@ -2,8 +2,7 @@ name: Update Free Games Data
 
 on:
   schedule:
-    # Runs automatically every day at 12:00 PM UTC
-    - cron: '0 12 * * *'
+    - cron: '0 16 * * *'
   workflow_dispatch:
 
 jobs:
