@@ -25,5 +25,3 @@ There is a static web page that displays json file that is updated weekly by git
 * **Hosting:** GitHub Pages
 
 ---
-
-*Note: This repository is intended to run via GitHub Actions and GitHub Pages. You don't need to deploy or run this locally to use it—just visit the [live site](https://jasonxiao127.github.io/epic-games-free-games/)!*
